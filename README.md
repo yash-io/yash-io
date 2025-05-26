@@ -15,15 +15,8 @@
 <a href="https://www.linkedin.com/in/yaswanth-konathala-9a4923264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth konathala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-io" height="30" width="40" /></a>
 <a href="mailto:yaswanthkonathala777@gmail.com" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 24 24" fill="#ffffff">
-    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 
-             1.1.89 2 1.99 2H20c1.1 0 2-.9 
-             2-2V6c0-1.1-.9-2-2-2zm0 
-             4l-8 5-8-5V6l8 5 8-5v2z"/>
-  </svg>
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="email" height="30" width="30" />
 </a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
