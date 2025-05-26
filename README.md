@@ -15,9 +15,8 @@
 <a href="https://www.linkedin.com/in/yaswanth-konathala-9a4923264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth konathala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-io" height="30" width="40" /></a>
 <a href="mailto:yaswanthkonathala777@gmail.com" target="_blank">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTIyIDRIMkMuOSAzLjkgLjAwOSA0LjggLjAwOSA1LjlMMCAxN2MwIDEuMS45IDIgMiAySDIyYzEuMSAwIDItLjkgMi0yVjUuOWMwLTEuMS0uOS0yLTItMi4wMDl6bTAgMTMuMUgyVjcuOWwxMCA2IDEwLTV2OS4xem0tMTAtMi45TDIgNi45aDIwTDEyIDE0LjF6Ii8+PC9zdmc+" alt="email" height="30" width="30" style="vertical-align: middle;" />
+  <img src="https://simpleicons.org/icons/gmail.svg" alt="email" height="30" width="30" style="filter: invert(100%); vertical-align: middle;" />
 </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
