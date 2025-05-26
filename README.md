@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mern**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **React,Node,tailwind,MongoDB,Express**
 
