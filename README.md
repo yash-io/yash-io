@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/yaswanth-konathala-9a4923264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth konathala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-io" height="30" width="40" /></a>
 <a href="mailto:yaswanthkonathala777@gmail.com" target="_blank">
-  <img src="./email-white.svg" alt="email" height="30" width="30" style="vertical-align: middle;" />
+  <img align="center" src="./email-white.svg" alt="email" height="30" width="30" style="vertical-align: middle;" />
 </a>
 
 </p>
