@@ -14,8 +14,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yaswanth-konathala-9a4923264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth konathala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-io" height="30" width="40" /></a>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <a href="mailto:yaswanthkonathala777@gmail.com" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/email-envelope-white-icon.png" alt="email" height="30" width="30" style="vertical-align: middle;" />
+  <i class="fa-solid fa-envelope" style="color: #ffffff; font-size: 30px; vertical-align: middle;"></i>
 </a>
 
 </p>
