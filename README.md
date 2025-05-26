@@ -9,12 +9,15 @@
 
 - 💬 Ask me about **React,Node,tailwind,MongoDB,Express**
 
-- 📫 How to reach me **yaswanthkonathala777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yaswanth-konathala-9a4923264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaswanth konathala" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-io" height="30" width="40" /></a>
+<a href="mailto:yaswanthkonathala777@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
